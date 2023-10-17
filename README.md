@@ -4,7 +4,7 @@
 
 
 
-<h2>📺 Certifciations</h2>
+<h2>📄Certifications </h2>
 
 - [Google Cybersecurity Professional]
 - [Google IT Support Professional]
