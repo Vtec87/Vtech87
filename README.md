@@ -6,8 +6,8 @@
 
 <h2>📺 Certifciations</h2>
 
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google IT Support Professional](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Google Cybersecurity Professional]
+- [Google IT Support Professional]
 - [Qualys](Vulnerability Management Detection & Response)
 
 
