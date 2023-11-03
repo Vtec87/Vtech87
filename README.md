@@ -1,6 +1,6 @@
 <h1>Hi, I'm Victor Sr! <br/><a href="https://github.com/vtech">Cybersecurity</a>, <a href="https://www.linkedin.com/in/victor-patterson-b86abb4b//">Cybersecurity Professional</a>, <a href=
 
-<h2>👨‍💻 Cybersecurity/IT/Cloud Projects:</h2>
+<h2>👨‍💻 Cybersecurity IT / Cloud Projects:</h2>
 
 
 
