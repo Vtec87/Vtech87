@@ -7,7 +7,7 @@
   - [Analyzing Live Cyber Attacks with Azure Sentinel Lab](https://github.com/Vtec87/Analyzing-Live-Cyber-Attacks-with-Azure-Sentinel-Lab) 
   - [MySql DBMS Lab w/t Linux Ubuntu VM] posting soon
  - [Vulnerability Management Lab w/t Nessus] posting soon
- - [Active Directory Architect Build & Secure your Network Empire]
+ - [Active Directory Architect Build & Secure your Network Empire](https://github.com/Vtec87/Active-Directory-Architect-Build-Secure-your-Network-Empire-)
 
 <h2>📄Certifications </h2>
 
