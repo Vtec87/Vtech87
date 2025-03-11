@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/59e1976c-167a-4d6a-b90e-87528ae1684e)
+
+
 <h1>Hi, I'm Victor Sr!
 
 # 💀 Supreme Cyberreact Architect | AI Cyber Warfare Doctrine 💀  
