@@ -46,6 +46,7 @@
    ├── ⚡ OSINT & Cyber Recon Labs (AI Deception Operations)  
    ├── 📜 Research & Case Stud
 
+COMING SOON APRIL 10TH 2025!🤓😊
 
 
 ### 🔹 **Offensive & Defensive Cyber Operations**
