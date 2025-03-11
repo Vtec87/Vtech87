@@ -35,7 +35,17 @@
   - [Analyzing Live Cyber Attacks with Azure Sentinel Lab](https://github.com/Vtec87/Analyzing-Live-Cyber-Attacks-with-Azure-Sentinel-Lab)
 - **Threat & Vulnerability Management**  
  - [Active Directory Architect Build & Secure your Network Empire](https://github.com/Vtec87/Active-Directory-Architect-Build-Secure-your-Network-Empire-)
-  - [Vulnerability Management Lab w/ Nessus] (Coming soon)  
+  - [Vulnerability Management Lab w/ Nessus] (Coming soon)
+
+📂 DeepSecure AI-SOC Framework  
+   ├── 🚀 The Age of Deepfakes (Deepfake Security Playbook)  
+   ├── 🔥 AI-Powered SOC (AWS Elastic SIEM, GuardDuty, Security Hub)  
+   ├── 🛡 Adversarial GRC Warfare (Cyber-Governance Countermeasures)  
+   ├── 🎭 Deepfake Threat Intelligence (Synthetic Fraud Recon)  
+   ├── 🔥 Red & Blue Team AI Cyber Defense (SOC & Adversarial AI)  
+   ├── ⚡ OSINT & Cyber Recon Labs (AI Deception Operations)  
+   ├── 📜 Research & Case Stud
+
 
 
 ### 🔹 **Offensive & Defensive Cyber Operations**
