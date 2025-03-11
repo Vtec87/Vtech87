@@ -38,7 +38,7 @@
   - [Vulnerability Management Lab w/ Nessus] (Coming soon)
 
 📂 DeepSecure AI-SOC Framework  
-   ├── 🚀 The Age of Deepfakes (Deepfake Security Playbook)  
+   ├── 🚀 The Age of Deepfakes (Deepfake Security Playbook) 🔗 **[The Age of Deepfakes: Protecting Your Digital Ecosystems with a GRC Approach](https://github.com/Vtec87/Vtech87/blob/MasterVic/%F0%9F%9A%80%20GitHub%20The%20Age%20of%20Deepfakes_%20Protecting%20Your%20Digital%20Ecosystems%20with%20a%20GRC%20Approach.pdf)**    
    ├── 🔥 AI-Powered SOC (AWS Elastic SIEM, GuardDuty, Security Hub)  
    ├── 🛡 Adversarial GRC Warfare (Cyber-Governance Countermeasures)  
    ├── 🎭 Deepfake Threat Intelligence (Synthetic Fraud Recon)  
