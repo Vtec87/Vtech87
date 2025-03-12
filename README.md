@@ -67,9 +67,11 @@ COMING SOON APRIL 10TH 2025!🤓😊
 
 ---
 ## **🚀 Connect with Me**
-📧 **Email:** vpatterson87@gmail.com  
+📧 **Email:**VictorDeepSecure.ai@pm.me  
 🔗 **[LinkedIn](https://www.linkedin.com/in/victor-patterson-b86abb4b/)**  
 📜 **[Credly Certification Badges](https://www.credly.com/users/victor-patterson.68d5e641)**  
+🌎 Portfolio: [Coming Soon]
+
 
 ---
 ## **💀 Your Move.**
@@ -95,6 +97,8 @@ But by then? **I’ve already executed it.**
 **🔺 [DO NOT REPRODUCE, COPY, OR REUSE WITHOUT PERMISSION] 🔺**  
 🚀 **"The Future of AI Security Isn’t Just Here—It’s Already Executing."** 💀🔥  
 ---
+
+![Protected IP](https://img.shields.io/badge/Protected-IP-red?style=for-the-badge)
 
 
 ### **Welcome to my domain.**  
