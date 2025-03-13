@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/59e1976c-167a-4d6a-b90e-87528ae1684e)
 
 
-<h1>Hi, 🔹 Victor Patterson Sr.
+<h1>Hi, 🔹Im Victor Patterson Sr.
 
 # 💀 AI Cybersecurity Architect | Adversarial GRC Strategist 💀  
 ### *"I specialize in **AI-driven cybersecurity, adversarial threat intelligence, and SOC automation.** My work integrates **AI deception, deepfake countermeasures, and governance-based cybersecurity strategies** to proactively defend against modern cyber threats."*
