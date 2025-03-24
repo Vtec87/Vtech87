@@ -29,27 +29,36 @@
 
 
 ---
-## **📂 🚀 DeepSecure_AI-Cyberwarfare_Framework & Projects**
+## 📂 🚀 DeepSecure_AI-Cyberwarfare_Framework & Projects
+
 🌎 **Tech Portfolio:** [Click Here](https://github.com/Vtec87/Vtech87/blob/MasterVic/README.md)
+
+📄 **NEW: Adversarial AI Security Framework for Infrastructure Resilience**  
+🧠 Built in under 30 minutes during a live interview scenario — this framework showcases real-time AI threat modeling, SOC alignment, and compliance automation under pressure.  
+🔗 **[View Full PDF Here](https://github.com/Vtec87/Vtech87/blob/MasterVic/Adversarial%20AI%20Security%20Framework%20for%20Infrastructure%20Resilience_.pdf)**
+
+> 💡 **Note:** This project evolved from a rejection into a live-execution blueprint. Not theory — just pure applied cyberwarfare intelligence.
+
+---
+
 - **SIEM & SOC Operations**  
   - [Fortifying Digital Defenses: A Personal SIEM Implementation with Wazuh](https://github.com/Vtec87/SIEMHomeLab/blob/main/README.md)  
   - [Analyzing Live Cyber Attacks with Azure Sentinel Lab](https://github.com/Vtec87/Analyzing-Live-Cyber-Attacks-with-Azure-Sentinel-Lab)
+
 - **Threat & Vulnerability Management**  
- - [Active Directory Architect Build & Secure your Network Empire](https://github.com/Vtec87/Active-Directory-Architect-Build-Secure-your-Network-Empire-)
-  - [Vulnerability Management Lab w/ Nessus] (Coming soon)
+  - [Active Directory Architect: Build & Secure your Network Empire](https://github.com/Vtec87/Active-Directory-Architect-Build-Secure-your-Network-Empire-)  
+  - *Vulnerability Management Lab w/ Nessus* (Coming soon)
 
-📂 DeepSecure AI-SOC Framework  
-🌎 **Tech Portfolio:** [Click Here](https://github.com/Vtec87/Vtech87/blob/MasterVic/README.md)
-
-   ├── 🚀 The Age of Deepfakes (Deepfake Security Playbook) 🔗 **[The Age of Deepfakes: Protecting Your Digital Ecosystems with a GRC Approach](https://github.com/Vtec87/Vtech87/blob/MasterVic/%F0%9F%9A%80%20GitHub%20The%20Age%20of%20Deepfakes_%20Protecting%20Your%20Digital%20Ecosystems%20with%20a%20GRC%20Approach.pdf)**    
+📂 **DeepSecure AI-SOC Framework**  
+   ├── 🚀 The Age of Deepfakes (Deepfake Security Playbook) 🔗 [Access PDF](https://github.com/Vtec87/Vtech87/blob/MasterVic/%F0%9F%9A%80%20GitHub%20The%20Age%20of%20Deepfakes_%20Protecting%20Your%20Digital%20Ecosystems%20with%20a%20GRC%20Approach.pdf)  
    ├── 🔥 AI-Powered SOC (AWS Elastic SIEM, GuardDuty, Security Hub)  
    ├── 🛡 Adversarial GRC Warfare (Cyber-Governance Countermeasures)  
    ├── 🎭 Deepfake Threat Intelligence (Synthetic Fraud Recon)  
    ├── 🔥 Red & Blue Team AI Cyber Defense (SOC & Adversarial AI)  
    ├── ⚡ OSINT & Cyber Recon Labs (AI Deception Operations)  
-   ├── 📜 Research & Case Stud
+   ├── 📜 Research & Case Studies (coming soon...)
 
-COMING SOON APRIL 10TH 2025!🤓😊
+📆 **COMING SOON: APRIL 10TH 2025!** 🔥
 
 
 ### 🔹 **Offensive & Defensive Cyber Operations**
