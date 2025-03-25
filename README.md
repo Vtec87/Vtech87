@@ -35,7 +35,7 @@
 
 📄 **NEW: Adversarial AI Security Framework for Infrastructure Resilience**  
 🧠 Built in under 30 minutes during a live interview scenario — this framework showcases real-time AI threat modeling, SOC alignment, and compliance automation under pressure.  
-🔗 **[View Full PDF Here](https://github.com/Vtec87/Vtech87/blob/MasterVic/Adversarial%20AI%20Security%20Framework%20for%20Infrastructure%20Resilience_.pdf)**
+🔗 **[View Full PDF Here](https://github.com/Vtec87/Vtech87/blob/MasterVic/Adversarial_AI_Security_Framework_Watermarked_2025.pdf)**
 
 ---
 ### 🔒 Intellectual Property & Security Notice  
