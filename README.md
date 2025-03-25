@@ -37,6 +37,16 @@
 🧠 Built in under 30 minutes during a live interview scenario — this framework showcases real-time AI threat modeling, SOC alignment, and compliance automation under pressure.  
 🔗 **[View Full PDF Here](https://github.com/Vtec87/Vtech87/blob/MasterVic/Adversarial%20AI%20Security%20Framework%20for%20Infrastructure%20Resilience_.pdf)**
 
+---
+### 🔒 Intellectual Property & Security Notice  
+🚨 **Protected by SHA-256 Verification & Time-Stamped GitHub Commits**  
+🔐 All frameworks, methodologies, and research are protected under intellectual property rights.  
+🚫 **Unauthorized reproduction, redistribution, or commercial use is strictly prohibited.**
+
+📌 **SHA-256 Checksum (PDF Authenticity Verification):**  
+`8d179e2aaa8ff2a354353f47fbbdf876077c6807c537bbb50fdeca8cc2faa0fe`  
+> *Use this to verify the document's integrity and timestamped authenticity.*
+
 > 💡 **Note:** This project evolved from a rejection into a live-execution blueprint. Not theory — just pure applied cyberwarfare intelligence.
 
 ---
@@ -116,10 +126,27 @@ My work focuses on **bridging AI security, threat intelligence, and governance i
 **🔺 [DO NOT REPRODUCE, COPY, OR REUSE WITHOUT PERMISSION] 🔺**  
 🚀 **"The Future of AI Security Isn’t Just Here—It’s Already Executing."** 💀🔥  
 ---
+
+All content in this repository is the protected intellectual property of Victor D. Patterson Sr.
+
+This includes but is not limited to:  
+- Frameworks (Cerberus Shield, DeepSecure, Odin’s Code, The Age of Deepfakes)  
+- Diagrams, PDFs, deployment documentation  
+- SOC and AI deception methodologies
+
+## ⚠️ Legal Protection  
+This repository contains time-stamped, hash-verified archives. Unauthorized use, reproduction, or derivative work is strictly prohibited.
+
+## 📫 Contact for Collaboration or Licensing
+- 📧 Email: VictorDeepSecure.ai@pm.me  
+- 🔗 LinkedIn: [Victor Patterson Sr.](https://www.linkedin.com/in/victor-patterson-b86abb4b/)
+
 📌 **All research, frameworks, and methodologies are protected.** Unauthorized reproduction, modification, or distribution is prohibited.  
 📌 **Time-Stamped, Hash-Verified Archives** ensure integrity and authenticity.  
 📌![Protected IP](https://img.shields.io/badge/Protected-IP-red?style=for-the-badge)
 
 
 ### **Welcome to my domain.**  
+
+“© 2025 Victor Patterson Sr.
 
