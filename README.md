@@ -6,6 +6,21 @@
 # 💀 AI Cybersecurity Architect | Adversarial GRC Strategist 💀  
 ### *"I specialize in **AI-driven cybersecurity, adversarial threat intelligence, and SOC automation.** My work integrates **AI deception, deepfake countermeasures, and governance-based cybersecurity strategies** to proactively defend against modern cyber threats."*
 
+# License: CC BY-NC-ND 4.0
+
+This repository contains intellectual property owned by Victor Patterson Sr.  
+**NO DERIVATIVE WORKS, COMMERCIAL USE, OR MODIFICATION IS PERMITTED** without express written consent.  
+All content is protected under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+
+🔒 View-only | 🛑 No Edit | 💰 No Sell | ⚠ Must Credit  
+Contact for collaboration or licensing: VictorDeepSecure.ai@pm.me
+
+## 🚨 Intellectual Property Notice
+
+This repository contains original AI cybersecurity frameworks protected under international copyright and Creative Commons restrictions.  
+**Violators will be pursued to the fullest extent under IP law.**
+
+For educational previews only. Full versions must be accessed via official channels with authorization.
 
 🚀 **Enhancing AI for Cyberwarfare & Governance**  
 🔹 **Architect of DeepSecure, Cerberus Shield & Odin’s Code** – AI-driven cyber deception, adversarial intelligence, and SOC automation.  
