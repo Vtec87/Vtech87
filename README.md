@@ -84,6 +84,8 @@ For educational previews only. Full versions must be accessed via official chann
    ├── 🔥 Red & Blue Team AI Cyber Defense (SOC & Adversarial AI)  
    ├── ⚡ OSINT & Cyber Recon Labs (AI Deception Operations)  
    ├── 📜 Research & Case Studies (coming soon...)
+   ├── 📘 [Cover Page + Version Control Log (PDF)](https://github.com/Vtec87/Vtech87/blob/MasterVic/Cover%20Page%20%2B%20Version%20Control%20Log%20The%20Age%20of%20Deepfakes%E2%84%A2%20-%20GRC%20Strategy%20Doctrine%20v1.0%20(CODE_%20AAG-01)%20-%20DeepSecure.%20.pdf) – Watermarked, SHA-256 Verified  
+
    
    
    <details>
