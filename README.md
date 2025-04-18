@@ -76,7 +76,7 @@ For educational previews only. Full versions must be accessed via official chann
   - *Vulnerability Management Lab w/ Nessus* (Coming soon)
 
 📂 **DeepSecure AI-SOC Framework**  
-   ├── 📄 [Cover Page + Version Control Log PDF](https://github.com/Vtec87/Vtech87/blob/MasterVic/Cover%20Page%20%2B%20Version%20Control%20Log%20The%20Age%20of%20Deepfakes%E2%84%A2%20-%20GRC%20Strategy%20Doctrine%20v1.0%20(CODE_%20AAG-01)%20-%20DeepSecure.%20.pdf) 
+   ├── 📄 [Cover Page + Version Control Log PDF] [Access PDF](https://github.com/Vtec87/Vtech87/blob/MasterVic/Cover%20Page%20%2B%20Version%20Control%20Log%20The%20Age%20of%20Deepfakes%E2%84%A2%20-%20GRC%20Strategy%20Doctrine%20v1.0%20(CODE_%20AAG-01)%20-%20DeepSecure.%20.pdf)   
    ├── 🚀 The Age of Deepfakes (Deepfake Security Playbook) 🔗 [Access PDF](https://github.com/Vtec87/Vtech87/blob/MasterVic/%F0%9F%9A%80%20GitHub%20The%20Age%20of%20Deepfakes_%20Protecting%20Your%20Digital%20Ecosystems%20with%20a%20GRC%20Approach.pdf)  
    ├── 🔥 AI-Powered SOC (AWS Elastic SIEM, GuardDuty, Security Hub)  
    ├── 🛡 Adversarial GRC Warfare (Cyber-Governance Countermeasures)  
