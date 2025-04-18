@@ -63,7 +63,11 @@ For educational previews only. Full versions must be accessed via official chann
 <details>
 <summary>📌 SHA-256 Verification (PDF Authenticity)</summary>
 
+`8d179e2aaa8ff2a354353f47fbbdf876077c6807c537bbb50fdeca8cc2faa0fe`  
+Use this checksum to verify authenticity of the final watermarked PDF.
+
 > 💡 **Note:** This project evolved from a rejection into a live-execution blueprint. Not theory — just pure applied cyberwarfare intelligence.
+</details>
 
 ---
 
@@ -75,7 +79,12 @@ For educational previews only. Full versions must be accessed via official chann
   - [Active Directory Architect: Build & Secure your Network Empire](https://github.com/Vtec87/Active-Directory-Architect-Build-Secure-your-Network-Empire-)  
   - *Vulnerability Management Lab w/ Nessus* (Coming soon)
 
-📂 **DeepSecure AI-SOC Framework**  
+📂 **DeepSecure AI-SOC Framework (Color-Coded):**
+📘 Cover Page & Version Logs  
+📕 GRC Strategy | 📗 SOC Defense | 📙 AI Recon & Doctrine  
+
+   ├── 📘 [Cover Page + Version Control Log (PDF)](https://github.com/Vtec87/Vtech87/blob/MasterVic/Cover%20Page%20%2B%20Version%20Control%20Log%20The%20Age%20of%20Deepfakes%E2%84%A2%20-%20GRC%20Strategy%20Doctrine%20v1.0%20(CODE_%20AAG-01)%20-%20DeepSecure.%20.pdf) 
+   – Watermarked, SHA-256 Verified
    ├── 🚀 The Age of Deepfakes (Deepfake Security Playbook) 🔗 [Access PDF](https://github.com/Vtec87/Vtech87/blob/MasterVic/The%20Age%20of%20Deepfakes_%20Protecting%20Your%20Digital%20Ecosystems%20with%20a%20GRC%20Approach%20%F0%9F%94%92%20CODE_%20AAG-01%20(1).pdf)  
    ├── 🔥 AI-Powered SOC (AWS Elastic SIEM, GuardDuty, Security Hub)  
    ├── 🛡 Adversarial GRC Warfare (Cyber-Governance Countermeasures)  
@@ -83,7 +92,6 @@ For educational previews only. Full versions must be accessed via official chann
    ├── 🔥 Red & Blue Team AI Cyber Defense (SOC & Adversarial AI)  
    ├── ⚡ OSINT & Cyber Recon Labs (AI Deception Operations)  
    ├── 📜 Research & Case Studies (coming soon...)
-   ├── 📘 [Cover Page + Version Control Log (PDF)](https://github.com/Vtec87/Vtech87/blob/MasterVic/Cover%20Page%20%2B%20Version%20Control%20Log%20The%20Age%20of%20Deepfakes%E2%84%A2%20-%20GRC%20Strategy%20Doctrine%20v1.0%20(CODE_%20AAG-01)%20-%20DeepSecure.%20.pdf) – Watermarked, SHA-256 Verified  
 ├── 📕 [The Age of Deepfakes™: GRC Strategy Framework (PDF)](https://github.com/Vtec87/Vtech87/blob/MasterVic/The%20Age%20of%20Deepfakes_%20Protecting%20Your%20Digital%20Ecosystems%20with%20a%20GRC%20Approach%20%F0%9F%94%92%20CODE_%20AAG-01%20(1).pdf) – Deepfake Counterintelligence  
 ├── 📗 [DeepSecure™: AWS-Powered SOC (PDF)](https://github.com/Vtec87/Vtech87/blob/MasterVic/DeepSecure_%20AWS-Powered%20SOC%20for%20Combating%20Synthetic%20Threats%20%F0%9F%94%92%20CODE_%20DSEC-AWS-SOCV1%20-%20Google%20Docs.pdf) – SOC Automation + AI Threat Defense  
 ├── 📘 [Cerberus Shield™: AI Security Warfare Doctrine (PDF)](https://github.com/Vtec87/Vtech87/blob/MasterVic/Cerberus%20Shield_%20The%20AI%20Security%20Warfare%20Doctrine%20%F0%9F%94%92%20CODE_%20CS3-AI_WARCORE-V1.0%20(3).pdf) – AI Cyberwarfare Tactics  
@@ -101,19 +109,6 @@ For educational previews only. Full versions must be accessed via official chann
 📫 Contact: VictorDeepSecure.ai@pm.me
 </details>
 
-   
-   
-   <details>
-<summary>⚠️ PDF Licensing & IP Protection</summary>
-
-- SHA-256 file hash verification  
-- Author identity: Victor Patterson Sr.  
-- Watermarked IP embedded in each file  
-
-📄 **License:** [CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-🚫 No modifications, forks, or commercial use allowed.  
-📫 Contact: VictorDeepSecure.ai@pm.me
-</details>
 
 
 📆 **COMING SOON: APRIL 10TH 2025!** 🔥
