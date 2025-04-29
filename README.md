@@ -46,6 +46,35 @@ For educational previews only. Full versions must be accessed via official chann
 ---
 ## 📂 🚀 DeepSecure_AI-Cyberwarfare_Framework & Projects
 
+---
+
+## 📘 Featured Cybersecurity Publication
+
+**Victor, P. S. (2025)**  
+🔹 *The Age of Deepfakes™ – A GRC Strategy Doctrine for Protecting Digital Ecosystems*  
+Featuring: **DeepSecure™**, **Cerberus Shield™**, **Odin’s Code™**, and **GRC-AIDE™**  
+📄 **Version:** v1.0 – Public Preprint / Strategic Doctrine (Pending IEEE Submission)  
+📚 Published on Zenodo | Indexed by **Google Scholar**, **OpenAIRE**, and **ORCID**
+
+🔗 [Read on Zenodo](https://doi.org/10.5281/zenodo.15239139)  
+🔍 ORCID: [0009-0005-5258-3548](https://orcid.org/0009-0005-5258-3548)
+
+---
+
+### 📜 License & Rights
+
+This work is licensed under the  
+[Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)
+
+> ✅ **Sharing Allowed** with proper attribution  
+> 🚫 **Modifications, remixes, and commercial use are strictly prohibited**
+
+🔒 Fully watermarked, timestamped, and hash-verified  
+📧 Contact: VictorDeepSecure.ai@pm.me for licensing or collaboration
+
+---
+
+
 🌎 **Tech Portfolio:** [Click Here](https://github.com/Vtec87/Vtech87/blob/MasterVic/README.md)
 
 📄 **NEW: Adversarial AI Security Framework for Infrastructure Resilience**  
